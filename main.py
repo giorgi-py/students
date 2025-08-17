@@ -7,7 +7,7 @@ def main():
     while True:
         try:
             print (figlet_format("Students"))
-            print ("======= MAIN MENU ===   ====")
+            print ("======= MAIN MENU =======")
             menu = int(input("[1]. Display Students\n[2]. Add Student\n[3]. Quit\n>> "))
             if menu == 3:
                 sys.exit(figlet_format('Goodbye!'))
