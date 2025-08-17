@@ -29,3 +29,6 @@ git clone https://github.com/giorgi-py/students.git
 pip install -r required_pip_modules.txt
 ```
 
+# SCREENSHOTS 
+![First Screenshot](readme/scrnsht-1.png)
+![Second Screenshot](readme/scrnsht-2.png)
