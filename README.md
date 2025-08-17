@@ -23,8 +23,9 @@ env\Scripts\activate
 source env/bin/activate
 ```
 ```bash
-git clone https://github.com/username/myproject.git
-cd myproject
+mkdir main_folder
+cd main_folder
+git clone https://github.com/giorgi-py/students.git
 pip install -r required_pip_modules.txt
 ```
 
