@@ -17,7 +17,7 @@ Clone the repository and install dependencies:
 
 ```bash
 python -m venv env
-# for Windwos 
+# Windows
 env\Scripts\activate
 # Mac/Linux
 source env/bin/activate
